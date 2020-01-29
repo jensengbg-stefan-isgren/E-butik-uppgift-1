@@ -1,0 +1,170 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Armada Arv 116 JJ",
+      "price": 825,
+      "size": [
+        165,
+        175,
+        185,
+        192
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70006532_700_065_32.png"
+    },
+    {
+      "id": 2,
+      "name": "K2 Empress Women",
+      "price": 345,
+      "size": [
+        159,
+        169
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70005241_700_052_41.png"
+    },
+    {
+      "id": 3,
+      "name": "Nordica Enforcer",
+      "price": 625,
+      "size": [
+        169,
+        177,
+        185,
+        193
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70001507_700_015_07.png"
+    },
+    {
+      "id": 4,
+      "name": "Armada Magic J",
+      "price": 799,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70006548_700_065_48.png"
+    },
+    {
+      "id": 5,
+      "name": "Line Pandora Women",
+      "price": 425,
+      "size": [
+        165,
+        172
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70005537_700_055_37.png"
+    },
+    {
+      "id": 6,
+      "name": "K2 Press",
+      "price": 299,
+      "size": [
+        177,
+        182,
+        187
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70005239_700_052_39.png"
+    },
+    {
+      "id": 7,
+      "name": "Black Crows Navis Freebird",
+      "price": 539,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70600307_706_003_07.png"
+    },
+    {
+      "id": 8,
+      "name": "Black Crows Junius Kids",
+      "price": 799,
+      "size": [
+        140,
+        145,
+        157
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70000301_700_003_01.png"
+    },
+    {
+      "id": 9,
+      "name": "Völkl Revolt",
+      "price": 399,
+      "size": [
+        175,
+        185,
+        189
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70001030_700_010_30.png"
+    },
+    {
+      "id": 10,
+      "name": "Armada Edgeless",
+      "price": 649,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70006528_700_065_28.png"
+    },
+    {
+      "id": 11,
+      "name": "Salomon QST",
+      "price": 449,
+      "size": [
+        180,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/2/70003924_700_039_24_a.jpg"
+    },
+    {
+      "id": 12,
+      "name": "K2 Mindbender",
+      "price": 569,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70005203_700_052_03.png"
+    },
+    {
+      "id": 13,
+      "name": "Fischer Ranger",
+      "price": 529,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70004006_700_040_06.png"
+    },
+    {
+      "id": 14,
+      "name": "'DPS Wailer",
+      "price": 649,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70002808_700_028_08.png"
+    },
+    {
+      "id": 15,
+      "name": "Dynastar Legend",
+      "price": 499,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70000501_700_005_01.png"
+    }
+  ],
+  "shoppingCart": []
+}
